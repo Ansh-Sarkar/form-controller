@@ -1,0 +1,27 @@
+{
+  "name": "form-controller",
+  "version": "1.0.0",
+  "description": "defines classes and functions necessary for proper formatting and manipulation of form data entered by the user",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ansh-Sarkar/form-controller.git"
+  },
+  "keywords": [
+    "workflow",
+    "form-controller",
+    "forms"
+  ],
+  "author": "Ansh Sarkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ansh-Sarkar/form-controller/issues"
+  },
+  "homepage": "https://github.com/Ansh-Sarkar/form-controller#readme",
+  "dependencies": {
+    "axios": "^1.1.3"
+  }
+}
